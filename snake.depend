@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1717024062 source:c:\users\user\codeblocksworkspace\snake\main.c
+1717120445 source:c:\users\user\codeblocksworkspace\snake\main.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
 	<unistd.h>
+	<time.h>
 	<windows.h>
 
